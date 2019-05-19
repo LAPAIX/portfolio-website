@@ -2588,6 +2588,7 @@ body.homepage.is-preload #header:after {
 
 #footer .contact {
   text-align: center;
+  margin-left: 400px;
 }
 
 #footer .contact p {
